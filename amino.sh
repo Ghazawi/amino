@@ -28,10 +28,9 @@ echo -e "${CYAN}[>] Press ENTER to Install amino, CTRL+C to Abort.${NC}"
 read INPUT
 echo ""
 
-echo -e "${RED} [1] ${NC}  ${CYAN} id amino     ${NC}    "  
+echo -e "${RED} [1] ${NC}  ${CYAN} id amino     ${NC}     "  
+echo -e "${RED} [2] ${NC}  ${CYAN} Voice calls  ${NC}     "  
 read -p  "        " NU
-echo -e "${RED} [2] ${NC}  ${CYAN} Voice calls ${NC}     "  
-
  echo -e  "\033[47mGet id amino By GAZAWIVIP-sors\033[m" 
 URL_ID_API="https://dev-sors.pantheonsite.io/api/v1/link-resolution.php?q="
 read -p  "add link profile amino:" PROFILEID
