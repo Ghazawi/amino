@@ -1,14 +1,14 @@
 # gei id amino test
 
 
-apt update && apt upgrade
+>apt update && apt upgrade
 
-pkg install jq
+>pkg install jq
 
-git clone https://github.com/Ghazawi/amino.git
+>git clone https://github.com/Ghazawi/amino.git
 
-cd amino
+>cd amino
 
-chmod +x amino.sh
+>chmod +x amino.sh
 
 ./amino.sh
