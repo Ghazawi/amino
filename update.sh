@@ -44,3 +44,4 @@ clear
 ./amino.sh
 clear
 ./amino.sh
+echo "ok update "
