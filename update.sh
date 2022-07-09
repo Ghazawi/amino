@@ -43,4 +43,3 @@ clear
 
 ./amino.sh
 
-clear
