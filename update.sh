@@ -4,6 +4,6 @@
 
 git clone --depth=1 https://github.com/Ghazawi/amino.git
 
-sudo chmod +x amino/amino.sh
+ chmod +x amino/amino.sh
 
 bash amino/amino.sh
