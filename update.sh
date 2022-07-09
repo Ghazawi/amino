@@ -42,5 +42,3 @@ sudo chmod +x amino.sh
 clear
 
 ./amino.sh
-
-clear
