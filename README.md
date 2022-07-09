@@ -12,3 +12,9 @@
 >chmod +x amino.sh
 
 >./amino.sh
+# Linux users
+
+
+
+>sudo snap install jq
+
