@@ -11,4 +11,4 @@
 
 >chmod +x amino.sh
 
-./amino.sh
+>./amino.sh
