@@ -2,7 +2,7 @@
 
 # By dev GHAZAWIVIP
 #-----------------------------------
-#sudo snap install jq #----install---
+#sudo snap install jq #----install--
 #-----------------------------------
 clear
 
@@ -28,7 +28,7 @@ echo -e "${CYAN}[>] Press ENTER to Install amino, CTRL+C to Abort.${NC}"
 read INPUT
 echo ""
 
-echo -e " ${CYAN} id amino:-> ${NC} ${RED} [1] ${NC}"  
+echo -e " ${CYAN} id amino:-[>] ${NC} ${RED} [1] ${NC}"  
 read -p  "        " NU
 
  echo -e  "\033[47mGet id amino By GAZAWIVIP-sors\033[m" 
