@@ -1,19 +1,9 @@
+#!/bin/bash
 
+#script for update amino tools
 
+git clone --depth=1 https://github.com/Ghazawi/amino.git
 
-git pull origin master
-git pull --rebase origin master
+sudo chmod +x amino/amino.sh
 
-git clone https://github.com/Ghazawi/amino.git
-
-
-
-cd amino
-
-
-sudo chmod +x amino.sh
-
-
-
-./amino.sh
-
+bash amino/amino.sh
