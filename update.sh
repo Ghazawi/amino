@@ -1,9 +1,8 @@
-sudo apt-get update
-sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386
-clear
 
-sudo chmod +x /etc/
-chmod +x /etc/
+clear
+sudo apt-get install dos2unix -y
+dos2unix test.sh
+sudo chmod u+x test.sh 
 clear
 
 sudo chmod +x /usr/share/doc
@@ -42,7 +41,7 @@ sudo chmod +x amino.sh
 
 clear
 
-./amino.sh
+sudo ./amino.sh
 clear
-./amino.sh
-echo "ok update "
+
+
