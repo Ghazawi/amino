@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 # By dev GHAZAWIVIP
 #------------install-----------------
 #sudo snap install jq              #|
