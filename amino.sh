@@ -5,7 +5,7 @@
 #sudo snap install jq              #|
 #sudo apt-get install wget         #|
 #------------------------------------
-bash update.sh
+
 clear
 
 BLACK='\e[30m'
