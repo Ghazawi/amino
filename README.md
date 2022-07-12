@@ -15,6 +15,14 @@
 # Linux users
 
 
+>#sudo snap install jq        
+>      
+>sudo apt-get install wget 
+>
+>git clone https://github.com/Ghazawi/amino.git
 
->sudo snap install jq
+>cd amino
 
+>chmod +x amino.sh
+
+>./amino.sh
