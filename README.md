@@ -15,7 +15,7 @@
 # Linux users
 
 
->#sudo snap install jq        
+>sudo snap install jq       
 >      
 >sudo apt-get install wget 
 >
